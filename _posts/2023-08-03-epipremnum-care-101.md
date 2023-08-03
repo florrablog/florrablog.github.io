@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Epipremnum Care 101: Your Guide to Thriving Pothos Plants
 
