@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Introducing Florra: Your Ultimate Plant Companion App 🌱
 
