@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-# Introducing Florra: Your Ultimate Plant Companion App 🌱
+## Introducing Florra: Your Ultimate Plant Companion App 🌱
 
 Are you a passionate plant enthusiast or a budding gardener? Picture having a devoted friend to accompany you on your plant-care odyssey. Look no further – introducing **Florra - Plant Care Diary**, the enchanting plant companion app crafted to infuse your plant parenting experience with delight and organization.
 
