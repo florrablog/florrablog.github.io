@@ -42,3 +42,5 @@ Florra caters to every plant lover, whether you opt for the free version or embr
 Unleash the joy of nurturing your plants like never before with Florra. Let this delightful app be your steadfast companion on your botanical journey. [Download Florra](https://apps.apple.com/gh/app/florra-plant-care-diary/id6444456083) today and witness the magic of cultivating your botanical wonders with the unwavering support of your newfound plant-loving friend.
 
 *Note: Florra is available for download on the [App Store](https://apps.apple.com/gh/app/florra-plant-care-diary/id6444456083). Happy plant parenting!*
+
+More information about all of the app's features on [florra.app](https://florra.app)
