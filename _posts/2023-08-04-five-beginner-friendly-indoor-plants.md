@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Five Beginner-Friendly Indoor Plants to Kickstart Your Green Journey 🌱
 
@@ -29,3 +29,5 @@ Embark on your plant journey with these five champions of simplicity and beauty.
 
 Happy planting,
 The Florra Blog Team 🌿🪴
+
+PS: Don' forget to add your new plant friends to [Florra - Plant Care Diary](https://florra.app) 💚
