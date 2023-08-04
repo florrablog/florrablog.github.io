@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Creating the Perfect Potting Mix for Your Indoor Plants: A Green Thumb's Guide 🌱
 
