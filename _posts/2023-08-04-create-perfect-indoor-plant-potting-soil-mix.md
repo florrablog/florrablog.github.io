@@ -51,3 +51,5 @@ Stay tuned for more tips, tricks, and green inspiration as we continue our journ
 
 Happy planting,
 The Florra Blog Team 🌿🍀
+
+PS: Using [Florra - Plant Care Diary](https://florra.app) you can keep track of all your gardening activities! 💚
