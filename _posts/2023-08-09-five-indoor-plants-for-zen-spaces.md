@@ -1,7 +1,4 @@
 ---
-published: false
----
----
 published: true
 layout: post
 title: Five Indoor Plants for Creating Calm and Zen Spaces
