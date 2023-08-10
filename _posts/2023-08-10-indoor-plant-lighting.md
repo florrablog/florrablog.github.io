@@ -1,6 +1,6 @@
 
 ---
-published: false
+published: true
 layout: post
 title: Optimizing Indoor Plant Lighting: Tips for a Thriving Garden 🌞🌿
 ---
