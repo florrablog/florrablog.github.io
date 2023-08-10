@@ -1,6 +1,6 @@
 
 ---
-published: false
+published: true
 layout: post
 title: <h1>Urban Jungle Essentials: Must-Have Indoor Plants for a Vibrant Home 🌿🏡</h1>
 ---
