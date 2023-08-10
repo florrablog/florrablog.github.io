@@ -1,6 +1,6 @@
 ---
 published: true
 layout: post
-title: "Caring for Indoor Orchids"
+title: "Essential Tips for Keeping Indoor Orchids Happy and Healthy"
 ---
 {% include 2023-08-10-caring-for-indoor-orchids.html %}
