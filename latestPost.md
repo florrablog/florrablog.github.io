@@ -1,4 +1,4 @@
 ---
 permalink: /latest/
 ---
-{% include site.posts.first %}
+{{ site.posts.first }}
