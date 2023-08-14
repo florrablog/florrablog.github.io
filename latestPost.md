@@ -1,5 +1,4 @@
 ---
 permalink: /latest/
-layout: post
 ---
-{% assign post = site.posts.first %}
+{% include site.posts.first %}
