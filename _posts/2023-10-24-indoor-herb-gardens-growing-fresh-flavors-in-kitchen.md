@@ -1,6 +1,6 @@
 ---
 published: true
 layout: post
-title: "Hidden Gems: Lesser-Known Indoor Plants for Your Collection 🌿🌺"
+title: "Indoor Herb Gardens: Growing Fresh Flavors Right in Your Kitchen"
 ---
-{% include 2023-09-15-lesser-known-indoor-plants-guide.html %}
+{% include 2023-10-24-indoor-herb-gardens-growing-fresh-flavors-in-kitchen.html %}
