@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: "Rare and Exotic Houseplants: A Guide to Unique Indoor Greenery"
 ---
