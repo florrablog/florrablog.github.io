@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: "Succulent and Cactus Care: Tips for Healthy Desert Plants"
 ---
