@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: "DIY Plant Care Accessories: Enhance Your Plant Care Routine"
 ---
