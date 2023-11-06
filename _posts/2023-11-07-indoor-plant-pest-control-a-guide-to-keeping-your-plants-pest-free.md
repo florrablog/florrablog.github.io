@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: "Indoor Plant Pest Control: A Guide to Keeping Your Plants Pest-Free"
 ---
