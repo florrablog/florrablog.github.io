@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: "Seasonal Plant Care Guide: Maintaining Your Indoor Garden Year-Round"
 ---
