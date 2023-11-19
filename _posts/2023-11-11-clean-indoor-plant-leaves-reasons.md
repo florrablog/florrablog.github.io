@@ -1,6 +1,6 @@
 ---
-published: false
+published: true
 layout: post
 title: "Three Reasons for Cleaning an Indoor Plant's Leaves"
 ---
-{% include 2023-11-11-clean-indoor-plant-leaves-reasons.html %}
+{% include 2023-11-19-clean-indoor-plant-leaves-reasons.html %}
