@@ -1,3 +1,8 @@
+---
+published: true
+layout: post
+title: "Winter Woes: A Guide to TLC for Your Indoor Plants in Chilly Times"
+---
 Hey plant enthusiasts! As the temperatures drop and cozy sweaters come out, our indoor plant gang needs a little extra love during the winter chill. Fear not, because we've got the ultimate guide on what to check and care for to keep your leafy buddies happy and thriving in colder times.
 
 ## Light Love Affair:
