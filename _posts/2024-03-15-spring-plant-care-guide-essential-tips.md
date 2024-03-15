@@ -5,7 +5,8 @@ title: "Spring Plant Care Guide: Essential Tips for Thriving Gardens as Temperat
 ---
 
 Hey there, green thumbs! As the winter chill fades away and the sun starts to warm our gardens, it's time to roll up our sleeves and get our hands dirty in the soil. Early spring brings with it a surge of energy for plants, signaling the perfect time for us to give them the care they need to thrive throughout the season. So, grab your gardening gloves and let's dive into some essential tips for nurturing your garden during those first days above 15 degrees Celsius (59 degrees Fahrenheit).
-Assessing Your Garden
+
+## Assessing Your Garden
 
 The first step in early spring plant care is to take a stroll around your garden and assess the aftermath of winter. Keep an eye out for any signs of damage caused by frost or pests. Look for wilting, yellowing leaves, and any areas where plants may have heaved out of the soil due to freezing and thawing cycles. Make note of any areas that may need special attention.
 
