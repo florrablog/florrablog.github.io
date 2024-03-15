@@ -1,3 +1,9 @@
+---
+published: true
+layout: post
+title: "Spring Plant Care Guide: Essential Tips for Thriving Gardens as Temperatures Rise"
+---
+
 Hey there, green thumbs! As the winter chill fades away and the sun starts to warm our gardens, it's time to roll up our sleeves and get our hands dirty in the soil. Early spring brings with it a surge of energy for plants, signaling the perfect time for us to give them the care they need to thrive throughout the season. So, grab your gardening gloves and let's dive into some essential tips for nurturing your garden during those first days above 15 degrees Celsius (59 degrees Fahrenheit).
 Assessing Your Garden
 
