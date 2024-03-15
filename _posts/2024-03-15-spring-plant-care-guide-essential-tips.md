@@ -15,7 +15,8 @@ The first step in early spring plant care is to take a stroll around your garden
 Healthy plants start with healthy soil. As the temperatures rise, it's time to assess the condition of your soil. Begin by checking its moisture level – it should be slightly damp but not waterlogged. If the soil feels too dry, give it a good watering, ensuring the moisture penetrates deep into the root zone.
 
 Next, test the pH level of your soil using a pH testing kit. Most plants prefer a slightly acidic to neutral pH level. If your soil is too acidic or alkaline, consider amending it with organic matter or pH-adjusting products to create an optimal growing environment for your plants.
-Pruning and Trimming
+
+## Pruning and Trimming
 
 Early spring is the perfect time to give your plants a little haircut. Prune away any dead or damaged branches, as well as any overgrown or tangled growth. This will encourage healthy new growth and improve air circulation within the plant, reducing the risk of diseases.
 
